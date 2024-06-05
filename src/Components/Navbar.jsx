@@ -19,8 +19,8 @@ const Navbar = () => {
 
     return (
         <>
-            <div className="w-full fixed top-0 bg-white shadow-lg left-0">
-                <div className="md:flex items-center justify-between py-2 md:px-10 px-2">
+            <nav className="w-full fixed top-0 z-[1000] bg-white shadow-lg left-0">
+                <div className="md:flex items-center justify-between py-3 md:px-10 px-2">
                     <div className='font-bold text-md cursor-pointer flex items-center text-gray-800'>
                         <Link to="/" className='flex items-center gap-2'>
                             <img src="../../public/asset 0.png" alt="" srcset="" className='object-cover w-9 h-9' />
@@ -43,7 +43,7 @@ const Navbar = () => {
                         <HiArrowRight />
                     </button>
                 </div>
-            </div>
+            </nav>
         </>
     )
 }
