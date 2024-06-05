@@ -38,160 +38,160 @@ const Home = () => {
 
           <div id="companies-container" className="flex flex-col gap-4 ">
             <div id="copanies-title" className="flex justify-center gap-2 items-center">
-              <img className="translate-y-2" src="../../public/asset 2.svg" alt="" />
+              <img className="translate-y-2" src="/asset 2.svg" alt="" />
               <span className="font-medium text-xl">APP POWERED BY TODESKTOP</span>
-              <img className="-scale-x-100 translate-y-2" src="../../public/asset 2.svg" alt="" />
+              <img className="-scale-x-100 translate-y-2" src="/asset 2.svg" alt="" />
             </div>
 
             <div id="lines-group" class="flex flex-col gap-4">
               <div id="line1" class="flex gap-4 w-screen -translate-x-48 transition-transform ease-linear">
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 3.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 3.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 4.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 4.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">LifeAt</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 5.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 5.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Convy</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 6.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 6.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Morgen</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 7.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 7.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Campsite</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 8.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 8.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Rise</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 9.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 9.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">ClickUp</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 10.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 10.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Notion</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 11.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 11.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Sunsama</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 12.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 12.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Beeper</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 13.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 13.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Cal</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 14.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 14.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Webstudio</span>
                 </div>
 
               </div>
               <div id="line2" class="flex gap-4 w-screen -translate-x-36 transition-transform ease-linear">
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 15.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 15.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 16.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 16.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 17.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 17.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 18.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 18.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 19.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 19.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 20.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 20.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Moises</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 21.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 21.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Basedash</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 22.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 22.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Cursor</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 23.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 23.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Linear</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 24.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 24.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Voiceflow</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 25.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 25.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Kitemaker</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 26.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 26.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Cron</span>
                 </div>
               </div>
               <div id="line3" class="flex md:hidden gap-4 w-screen -translate-x-48 transition-transform ease-linear">
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 15.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 15.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 16.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 16.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 17.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 17.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 3.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 3.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 4.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 4.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 5.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 5.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 12.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 12.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 13.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 13.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 14.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 14.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 24.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 24.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 25.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 25.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
                 <div class="flex flex-col justify-center gap-2 items-center min-w-24 min-h-24 bg-white rounded-xl border border-gray-300 md:min-h-32 md:min-w-32">
-                  <img src="../../public/asset 26.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
+                  <img src="/asset 26.png" class="w-12 h-12 md:w-16 md:h-16" alt="" />
                   <span class="text-[12px] font-semibold lg:text-[16px]">Unbounce1</span>
                 </div>
               </div>
@@ -233,7 +233,7 @@ const Home = () => {
                 </ul>
               </div>
               <div class="pt-12">
-                <img src="../../public/asset 66.svg" alt="" />
+                <img src="/asset 66.svg" alt="" />
               </div>
             </div>
             <div id="step2" class="rounded-xl border px-8 py-12 flex flex-col lg:flex-row justify-between">
@@ -269,7 +269,7 @@ const Home = () => {
                 </ul>
               </div>
               <div class="pt-12">
-                <img src="../../public/asset 66.svg" alt="" />
+                <img src="/asset 66.svg" alt="" />
               </div>
             </div>
             <div id="step3" class="rounded-xl border px-8 py-12 flex flex-col lg:flex-row justify-between">
@@ -305,7 +305,7 @@ const Home = () => {
                 </ul>
               </div>
               <div class="pt-12">
-                <img src="../../public/asset 66.svg" alt="" />
+                <img src="/asset 66.svg" alt="" />
               </div>
             </div>
           </div>
@@ -334,7 +334,7 @@ const Home = () => {
             <div class="rounded-xl border flex flex-col lg:flex-row items-end">
               <div class="flex flex-col gap-12 p-8">
                 <div class="h-4 w-fit">
-                  <img src="../../public/asset 44.svg" alt="" />
+                  <img src="/asset 44.svg" alt="" />
                 </div>
                 <h3 class="text-xl leading-relaxed">ClickUp used ToDesktop to get their desktop app in front of customers in days instead of months.</h3>
                 <div id="tag-container" class="flex gap-3 flex-wrap">
@@ -362,7 +362,7 @@ const Home = () => {
                 <p class="text-lg font-light text-gray-500">“ToDesktop provided us with a <span class="text-gray-800">polished desktop app</span> in no time. Their expert team guided us through a smooth migration from our outdated legacy desktop app, enabling us to deliver <span class="text-gray-800">new and improved features</span> to our customers within days.”</p>
                 <div id="user-card" class="flex gap-4">
                   <div class="w-12">
-                    <img src="../../public/asset 45.jpeg" class="rounded-full" alt="" />
+                    <img src="/asset 45.jpeg" class="rounded-full" alt="" />
                   </div>
                   <div class="flex flex-col">
                     <h3>Zeb Evans</h3>
@@ -371,7 +371,7 @@ const Home = () => {
                 </div>
               </div>
               <div class="">
-                <img src="../../public/asset 46.png" class="pl-12" alt="" />
+                <img src="/asset 46.png" class="pl-12" alt="" />
               </div>
             </div>
             <div class="flex flex-col lg:flex-row justify-between gap-4 mt-6">
@@ -387,10 +387,10 @@ const Home = () => {
                   <div class="flex gap-4">
                     <div class="flex">
                       <div class="-mr-3 w-12 h-12 flex justify-center items-center rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 47.png" class="min-w-16 min-h-16" alt="" />
+                        <img src="/asset 47.png" class="min-w-16 min-h-16" alt="" />
                       </div>
                       <div class="w-12 h-12 rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 48.jpeg" alt="" />
+                        <img src="/asset 48.jpeg" alt="" />
                       </div>
                     </div>
                     <div class="flex flex-col">
@@ -414,10 +414,10 @@ const Home = () => {
                   <div class="flex gap-4">
                     <div class="flex">
                       <div class="-mr-3 w-12 h-12 flex justify-center items-center rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 47.png" class="min-w-16 min-h-16" alt="" />
+                        <img src="/asset 47.png" class="min-w-16 min-h-16" alt="" />
                       </div>
                       <div class="w-12 h-12 rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 48.jpeg" alt="" />
+                        <img src="/asset 48.jpeg" alt="" />
                       </div>
                     </div>
                     <div class="flex flex-col">
@@ -441,10 +441,10 @@ const Home = () => {
                   <div class="flex gap-4">
                     <div class="flex">
                       <div class="-mr-3 w-12 h-12 flex justify-center items-center rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 47.png" class="min-w-16 min-h-16" alt="" />
+                        <img src="/asset 47.png" class="min-w-16 min-h-16" alt="" />
                       </div>
                       <div class="w-12 h-12 rounded-full overflow-hidden border border-white">
-                        <img src="../../public/asset 48.jpeg" alt="" />
+                        <img src="/asset 48.jpeg" alt="" />
                       </div>
                     </div>
                     <div class="flex flex-col">
@@ -469,7 +469,7 @@ const Home = () => {
                 <p class="text-gray-400 text-xs italic leading-tight">*You can create a desktop app and run it on your computer for free. You will only be charged if you want to create a distributable app for your customers.</p>
               </div>
               <div class="lg:w-1/2">
-                <img src="../../public/asset 46.png" class="pl-12" alt="" />
+                <img src="/asset 46.png" class="pl-12" alt="" />
               </div>
             </div>
           </div>
@@ -633,13 +633,13 @@ const Home = () => {
             <a href="#" class="text-gray-600 hover:text-gray-900"><i class="fa-brands fa-github"></i></a>
           </div>
           <a href="#" id="brand" class="flex gap-2 items-center flex-1">
-            <img class="object-cover max-w-12 max-h-12" src="../../public/asset 0.png" alt="Logo" />
+            <img class="object-cover max-w-12 max-h-12" src="/asset0.png" alt="Logo" />
             <span class="text-lg font-medium font-display">ToDesktop</span>
           </a>
         </div>
         <div id="sub-footer" class="flex flex-col gap-6 items-center justify-center my-12">
           <div class="flex gap-2 items-center ">
-            <img class="w-4 h-4" src="../../public/asset 54.svg" alt="Y-combinator" />
+            <img class="w-4 h-4" src="/asset 54.svg" alt="Y-combinator" />
             <p class="text-sm text-gray-600">A Y Combinator company.</p>
           </div>
           <p class="text-sm text-gray-400">© 2024 ToDesktop, Inc. All rights reserved.</p>

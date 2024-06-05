@@ -5,6 +5,7 @@ import { HiArrowRight } from "react-icons/hi";
 import { IoMdClose } from "react-icons/io";
 import { IoLogoElectron } from "react-icons/io5";
 
+
 const Navbar = () => {
 
     let Links = [
@@ -23,7 +24,7 @@ const Navbar = () => {
                 <div className="md:flex items-center justify-between py-3 md:px-10 px-2">
                     <div className='font-bold text-md cursor-pointer flex items-center text-gray-800'>
                         <Link to="/" className='flex items-center gap-2'>
-                            <img src="../../public/asset 0.png" alt="" srcset="" className='object-cover w-9 h-9' />
+                            <img src="/asset0.png" alt="" srcset="" className='object-cover w-9 h-9' />
                             <span className='text-md font-medium'>ToDesktop</span>
                         </Link>
                     </div>
